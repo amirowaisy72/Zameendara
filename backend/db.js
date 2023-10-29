@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 // const url = 'mongodb://0.0.0.0:27017/grain-markete';
-const url = 'mongodb+srv://amirowaisy72:iVVKYSj5rugATyVg@cluster0.mpb1bfz.mongodb.net/grain-markete';
+const url = 'mongodb+srv://amirowaisy72:iVVKYSj5rugATyVg@cluster0.mpb1bfz.mongodb.net/zameendara';
 mongoose.set('strictQuery', false);
 
 const connecToMongoose = ()=>{
