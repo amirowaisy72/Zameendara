@@ -1,0 +1,7 @@
+{
+  "name": "Business",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
